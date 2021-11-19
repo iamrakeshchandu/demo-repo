@@ -1,0 +1,2 @@
+Host "ssh://git@github.com/"
+    IdentityFile ~/.ssh/github/id_rsa
